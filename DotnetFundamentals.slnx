@@ -1,5 +1,6 @@
 <Solution>
   <Folder Name="/src/">
     <Project Path="src/HelloDotnet/HelloDotnet.csproj" />
+    <Project Path="src/MyFirstWebApp/MyFirstWebApp.csproj" />
   </Folder>
 </Solution>
