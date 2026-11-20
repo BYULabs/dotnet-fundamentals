@@ -1,6 +1,7 @@
 <Solution>
   <Folder Name="/src/">
     <Project Path="src/HelloDotnet/HelloDotnet.csproj" />
+    <Project Path="src/MyBlazorApp/MyBlazorApp.csproj" />
     <Project Path="src/MyFirstApi/MyFirstApi.csproj" />
     <Project Path="src/MyFirstWebApp/MyFirstWebApp.csproj" />
   </Folder>
